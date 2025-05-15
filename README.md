@@ -8,6 +8,10 @@ Art Page es una página web estática diseñada para presentar las bellas artes 
 - Navegación fluida y visualmente atractiva.
 - Desplegado en GitHub Pages para su visualización directa.
 
+
+https://github.com/user-attachments/assets/201c54b4-b5cd-4dae-8b36-033dd76145b2
+
+
 # Tecnologías utilizadas
 - HTML5
 - CSS3
