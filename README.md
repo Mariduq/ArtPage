@@ -24,4 +24,4 @@ https://github.com/user-attachments/assets/201c54b4-b5cd-4dae-8b36-033dd76145b2
 ## Visualización del proyecto
 
 Puedes ver la página en funcionamiento accediendo a:
-https://mariduq.github.io/artpage/
+https://mariduq.github.io/ArtPage/
